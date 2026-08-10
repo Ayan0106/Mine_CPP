@@ -1,3 +1,5 @@
+// UNLIKE JAVA here it is used INT_MIN, INT_MAX, nullptr.👇
+// Also can't use the .length() here
 #include <bits/stdc++.h>
 using namespace std;
 int find_max(){
