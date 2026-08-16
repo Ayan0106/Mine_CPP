@@ -1,3 +1,5 @@
+// Input: n = 6
+// Output = [1, 2, 3, 6]
 #include<bits/stdc++.h>
 class Solution {
 public:
