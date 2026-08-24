@@ -21,6 +21,9 @@ void display(Node* head) {
     while(temp!=nullptr){
         cout<<temp->data<<" ";
         temp=temp->ptr;
+        if(temp==nullptr){
+            cout<<"NULL";
+        }
     }
 }
 int main(){
